@@ -3,7 +3,7 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # BOT TOKEN
-TOKEN = '393985494:AAFSHfaehl5LXDEaaYpA77pzuKpWMV61zJk'
+TOKEN = '#TOKEN'
 
 # LINKS CONSTANTS
 db_path = './database/test.db'
